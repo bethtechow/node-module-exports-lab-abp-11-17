@@ -5,4 +5,4 @@ class Question {
 
   }
 }
-module.export = Find
+module.exports = Question
